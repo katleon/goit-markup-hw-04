@@ -100,8 +100,8 @@ body {
     list-style: none;
     padding-left: 0;
 }
-.prime-st {
-    width: 1200px;
+.prime-st-background {
+    width: 1600px;
     background-color: var(--minor-color);
     background-image: linear-gradient(
             to bottom,
@@ -112,6 +112,9 @@ body {
     background-position: center;
     background-size: cover;
     background-repeat: no-repeat;
+}
+.prime-st {
+    width: 1200px;
     text-align: center;
 }
 .prime-title {
